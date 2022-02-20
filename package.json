@@ -1,0 +1,19 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "serverless train",
+  "main": "handler.js",
+  "scripts": {
+    "test": "serverless offline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asosam91/serverless.git"
+  },
+  "author": "Adrian Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asosam91/serverless/issues"
+  },
+  "homepage": "https://github.com/asosam91/serverless#readme"
+}
