@@ -1,5 +1,5 @@
 {
-  "name": "serverless",
+  "name": "serverlessTrain",
   "version": "1.0.0",
   "description": "serverless train",
   "main": "handler.js",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/asosam91/serverless/issues"
   },
-  "homepage": "https://github.com/asosam91/serverless#readme"
+  "homepage": "https://github.com/asosam91/serverless#readme",
+  "devDependencies": {
+    "serverless-offline": "^8.5.0"
+  },
+  "dependencies": {
+    "serverless": "^3.2.1"
+  }
 }
